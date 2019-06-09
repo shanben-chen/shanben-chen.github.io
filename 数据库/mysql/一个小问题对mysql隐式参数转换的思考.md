@@ -25,7 +25,7 @@ select * from blog where title = 32019051669436436
 
 结果查出了title为32019051669436435的数据：
 
-![image-20190609173426706](/Users/cey/Library/Application Support/typora-user-images/image-20190609173426706.png)
+![image-20190609173426706](image-20190609173426706.png)
 
 ## 原因
 
